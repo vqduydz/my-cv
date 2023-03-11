@@ -1,14 +1,25 @@
-import React from 'react';
+import { CssBaseline } from '@mui/material';
+import { StyledEngineProvider } from '@mui/material/styles';
+import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+
 import App from './App';
+import GlobalStyles from './assets/GlobalStyles';
+import ThemeMuiContextProvider from './context/ThemeMuiContext';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <StrictMode>
+        <StyledEngineProvider>
+            <ThemeMuiContextProvider>
+                <CssBaseline />
+                <GlobalStyles>
+                    <App />
+                </GlobalStyles>
+            </ThemeMuiContextProvider>
+        </StyledEngineProvider>
+    </StrictMode>,
 );
 
 // If you want to start measuring performance in your app, pass a function
