@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-cv/static/css/main.3c4e7e46.css",
+    "main.js": "/my-cv/static/js/main.8cddc847.js",
+    "static/js/787.fba0d8f7.chunk.js": "/my-cv/static/js/787.fba0d8f7.chunk.js",
+    "static/media/thpt.png": "/my-cv/static/media/thpt.9a4dea73174a57d25989.png",
+    "static/media/thcs.png": "/my-cv/static/media/thcs.4a6a4faf58b36e9faa62.png",
+    "static/media/thtd.png": "/my-cv/static/media/thtd.8d384aff7db05f04ea89.png",
+    "static/media/vns.png": "/my-cv/static/media/vns.e95e6417972f4c4639ad.png",
+    "static/media/thatnghiep.png": "/my-cv/static/media/thatnghiep.eed72c07ca42386dfa4e.png",
+    "static/media/born.png": "/my-cv/static/media/born.6e274dff7230913ab2f0.png",
+    "static/media/avatar.png": "/my-cv/static/media/avatar.a719acca07b610705c2e.png",
+    "static/media/12345566.pdf": "/my-cv/static/media/12345566.b60fd5bafc7d8c384132.pdf",
+    "static/media/job.png": "/my-cv/static/media/job.1c73510a28108b45f898.png",
+    "index.html": "/my-cv/index.html",
+    "main.3c4e7e46.css.map": "/my-cv/static/css/main.3c4e7e46.css.map",
+    "main.8cddc847.js.map": "/my-cv/static/js/main.8cddc847.js.map",
+    "787.fba0d8f7.chunk.js.map": "/my-cv/static/js/787.fba0d8f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4e7e46.css",
+    "static/js/main.8cddc847.js"
+  ]
+}
